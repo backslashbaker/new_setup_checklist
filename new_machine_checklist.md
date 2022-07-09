@@ -14,6 +14,9 @@ https://github.com/junegunn/vim-plug
 - [ ] Switch shell to Zsh
 https://www.addictivetips.com/ubuntu-linux-tips/switch-from-bash-to-zsh-on-linux/
 
+- [ ] Install Homebrew
+https://brew.sh/
+
 - [ ] Install thefuck
 https://github.com/nvbn/thefuck
 
