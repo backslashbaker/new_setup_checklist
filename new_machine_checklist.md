@@ -25,6 +25,9 @@ https://jonas.github.io/tig/
 
 ## Theme shell 
 
+### Helpful guide that covers most of the theme.
+https://medium.com/@satriajanaka09/setup-zsh-oh-my-zsh-powerlevel10k-on-ubuntu-20-04-c4a4052508fd
+
 - [ ] Install OH-MY-ZSH
 https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
