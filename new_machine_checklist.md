@@ -28,11 +28,6 @@ https://jonas.github.io/tig/
 ### Helpful guide that covers most of the theme.
 https://medium.com/@satriajanaka09/setup-zsh-oh-my-zsh-powerlevel10k-on-ubuntu-20-04-c4a4052508fd
 
-## Extra bits
-
-### Fingerprint sensor set up (Dell XPS 15)
-https://askubuntu.com/questions/1362986/how-do-i-get-the-fingerprint-reader-to-work-in-ubuntu-21-04-xps-15
-
 - [ ] Install OH-MY-ZSH
 https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
@@ -46,4 +41,10 @@ https://gogh-co.github.io/Gogh/
 
 - [ ] Install Ruby and Rails (ubuntu 22.04 jammy)
 https://gorails.com/setup/ubuntu/22.04
+
+
+## Extra bits
+
+### Fingerprint sensor set up (Dell XPS 15)
+https://askubuntu.com/questions/1362986/how-do-i-get-the-fingerprint-reader-to-work-in-ubuntu-21-04-xps-15
 
